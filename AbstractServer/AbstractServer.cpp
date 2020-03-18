@@ -1,6 +1,6 @@
 #include "../Server/Server.h"
 
-AbstractServer *CreateInstance()
-{
-    return new Server();
-}
+// AbstractServer *CreateInstance()
+// {
+//     return new Server();
+// }
